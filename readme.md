@@ -55,8 +55,9 @@ The project is divided into multiple code sections:
 
 ## Contributors
 
-- [Your Name]
-- [Other contributors, if any]
+- Rishu Kumar
+- Razib Hasan
+- Phong Trang
 
 ## License
 
