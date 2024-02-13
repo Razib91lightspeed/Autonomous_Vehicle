@@ -56,9 +56,7 @@ The project is divided into multiple code sections:
 ## Contributors
 
 - Rishu Kumar
-- Razib Hasan
+- Razib Hasan (Me)
 - Phong Trang
 
-## License
 
-This project is open-source under the [MIT License](LICENSE).
